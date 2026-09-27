@@ -1,0 +1,18 @@
+# Day 04 − Engineering Clinic
+## Incident
+The web application was unavailable.
+## Symptom [What was observed]
+## Impact [What was affected]
+## Investigation
+### Network [Evidence]
+### DNS [Evidence]
+### Ports [Evidence]
+### Service [Evidence]
+### Logs [Evidence]
+### Processes [Evidence]
+### Resources [Evidence]
+## Root Cause [What actually caused the failure
+Remediation [What was changed]
+## Verification [How recovery was proven]
+## Prevention [How recurrence could be reduced]
+## Lessons Learned [What I learned]
